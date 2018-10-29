@@ -1,4 +1,4 @@
-# Templates
+# Arduino Projects Hub
 
 Use the files in this repo as Arduino projects HUB. Be sure to read
 through them, understand their implications, and fill in the placeholders.
